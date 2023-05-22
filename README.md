@@ -2,8 +2,8 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=CheneyYin.readme" style="max-width:100%;">
 
-- 🌱 My interests lies in big data and AI.
-- 🔨 I'm currently working on my pre-open source project (Metal).
+- 🌱 I'm focused on big data and AI.
+- 🔨 I'm currently working on my open source project (Metal).
 - 👯 I’m currently working on open source project (SeaTunnel).
 - 😄 Pronouns: He
 - ⚡ Technologies: I work with Java, Typescript, Python, Shell and more.
