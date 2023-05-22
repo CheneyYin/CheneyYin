@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Chengyu Yan. 👋
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=CheneyYin.readme" style="max-width:100%;">
 
