@@ -1,5 +1,6 @@
 ### Hi, I am Chengyu Yan. 👋
-[![Mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&label=cheneyyin@hotmail.com)](mailto:cheneyyin@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/cheneyyin@hotmail.com-Hotmail-yellow?style=plastic&logo=microsoft-outlook)](mailto:cheneyyin@hotmail.com)
+[![Zhihu Badge](https://img.shields.io/badge/CheneyYin-blue?style=social&logo=zhihu)](https://www.zhihu.com/people/cheney-yin-77)
 ![Visitor Count](https://komarev.com/ghpvc/?username=CheneyYin)
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=CheneyYin.readme" style="max-width:100%;"> -->
 
