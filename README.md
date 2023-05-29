@@ -8,8 +8,6 @@
 - 😄 Pronouns: He
 - ⚡ Technologies: I work with Java, Typescript, Python, Shell and more.
 
-![CheneyYin's github stats](https://github-readme-stats.vercel.app/api?username=CheneyYin&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
-
 ![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyYin&text_color=adbac7&hide_border=true&hide_title=true&langs_count=10&bg_color=2d333b&count_private=true&layout=compact&include_all_commits=true&card_width=900)
 
 ---
