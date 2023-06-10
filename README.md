@@ -3,7 +3,7 @@
 
 ### Hi, I am Chengyu Yan. 👋
 - 🌱 I'm focused on big data and AI.
-- 🔨 I'm currently working on my open source project (Metal).
+- 🔨 I'm currently working on my open source projects (Metal & SFaker).
 - 👯 I’m currently working on open source project (SeaTunnel).
 - 😄 Pronouns: He
 - ⚡ Technologies: I work with Java, Typescript, Python, Shell and more.
